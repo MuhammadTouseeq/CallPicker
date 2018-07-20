@@ -22,7 +22,7 @@ public class CallReceiver extends PhonecallReceiver {
 //
 //        trIntent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 //        ctx.startActivity(trIntent);
-//       showAlertDialog(ctx,"Incoming Call",number);
+//       showAlertDialog(ctx,"Incoming Call",number
     }
 
     @Override
