@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/callapp" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/callappTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/callappthree" vcs="Git" />
   </component>
 </project>
