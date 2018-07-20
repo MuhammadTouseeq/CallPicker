@@ -44,6 +44,6 @@ public class CallReceiver extends PhonecallReceiver {
 
 public interface CallListener
 {
-    void onRecieve(String number,String title);
+    void onRecieved(String number,String title);
 }
 }
